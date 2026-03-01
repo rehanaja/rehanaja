@@ -1,4 +1,4 @@
-## Hello There 👋
+### Hello There 👋
 
 
 I am a software engineer who interest with sharing about my journey and learnings in tech. aside from software engineering,
@@ -6,7 +6,7 @@ i studied Information Systems at the University of Bina Sarana Informatika, Indo
 
 ---
 
-## Tools & Tech
+### Tech Stack:
 
 - React, Typescript, Tailwind
 - Laravel, PHP, Figma
