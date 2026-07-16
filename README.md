@@ -8,8 +8,8 @@ i studied Information Systems at the University of Bina Sarana Informatika, Indo
 
 ### Tech Stack:
 
-- React, Typescript, Tailwind
-- Laravel, PHP, Figma
+- React, Typescript, Tailwind, PHP, Flutter
+- Laravel, Figma
 - MySQL, MongoDB
 
 
