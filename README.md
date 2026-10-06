@@ -39,7 +39,7 @@
 <p align="center">
   <samp>
     Student & self-taught developer<br>
-    Always exploring new designs<br>
+    Always exploring<br>
   </samp>
 </p>
 
