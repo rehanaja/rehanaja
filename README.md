@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Poppins&weight=600&size=35&duration=3000&color=121212&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rehan;Welcome+to+my+profile;Building+cool+stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=121212&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rehan;Welcome+to+my+profile;Building+cool+stuff" alt="Typing SVG" />
 </h1>
 
 <p align="center">
